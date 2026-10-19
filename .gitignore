@@ -1,0 +1,4 @@
+weather_log.csv
+.env
+__pycache__/
+*.pyc
